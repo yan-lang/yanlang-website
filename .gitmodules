@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/yan-lang/yan-lang.github.io.git
+	branch = master
+
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
