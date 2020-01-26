@@ -1,6 +1,5 @@
 # hugo server --disableFastRender --baseURL=http://0.0.0.0:1313
 
-baseURL: yan-lang.github.io
 title: Yan
 theme: hugo-book
 
