@@ -3,21 +3,20 @@ headless: true
 bookMenuLevels: 1
 ---
 - 
-    - [About Yan]({{< relref "/docs/example" >}})
+    - [About Yan]({{< relref "/docs/about" >}})
     - [Blog]({{< relref "/posts" >}})
-    - [Download]({{< relref "/docs/example/table-of-contents" >}})
-    - [Getting Started]({{< relref "/docs/example/2nd" >}})
-    - [Documentation]({{< relref "/docs/example/table-of-contents/with-toc" >}})
-    - [Source Code]({{< relref "/docs/example/2nd/3rd" >}})
-    - [Contributing]({{< relref "/docs/example/2nd/3rd/4th" >}})
-
+    - [Download]({{< relref "/docs/download" >}})
+    - [Getting Started]({{< relref "/docs/get_start" >}})
+    - [Documentation](https://yan-lang.github.io/yan-tutorial/)
+    - [Source Code]({{< relref "/docs/code" >}})
+    - [Contributing]({{< relref "/docs/contributing" >}})
 
 
 - **Labs**
-    - [Starter Code]({{< relref "/docs/shortcodes/buttons" >}})
+    - [Starter Code]({{< relref "/docs/contributing" >}})
 
 
 - **Projects**
-    - [Compiler]({{< relref "/docs/shortcodes/buttons" >}})
-    - [REPL]({{< relref "/docs/shortcodes/columns" >}})
-    - [Plugins]({{< relref "/docs/shortcodes/columns" >}})
+    - [Compiler]({{< relref "/docs/contributing" >}})
+    - [REPL]({{< relref "/docs/contributing" >}})
+    - [Plugins]({{< relref "/docs/contributing" >}})
