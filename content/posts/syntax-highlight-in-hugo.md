@@ -1,13 +1,13 @@
 ---
-author: "Zeqiang Lai"
+author: "赖泽强"
 date: 2020-01-28
-linktitle: Syntax Highlight for Yan in Hugo
+linktitle: 为Hugo添加Yan语言代码高亮支持
 menu:
   main:
     parent: tutorials
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
-title: Syntax Highlight for Yan in Hugo
+title: 为Hugo添加Yan语言代码高亮支持
 weight: 10
 # categories: ["Plugins"]
 # tags: ["pygments"]

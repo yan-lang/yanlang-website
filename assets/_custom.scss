@@ -112,3 +112,57 @@
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .vm { color: #008080 } /* Name.Variable.Magic */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+
+
+  /* text editor styles */
+.text-editor-wrap {
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    max-width: 600px;
+    border-radius: 5px;
+    box-shadow: 0 1px 15px rgba(27,31,35,.15)!important;
+}
+  
+.title-bar {
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font-size: 0.75em;
+    text-align: center;
+    background-color: #f3f3f3!important;
+    border-bottom: #d3d3d3 1px solid; 
+}
+  
+  .text-body {
+    height: 250px;
+    background-color: #ffffff;
+    padding: 10px;
+    color: #131313;
+    // text-shadow: #000 0px 1px 0px;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace!important;
+    font-size: 12px;
+    line-height: 1.40em;
+    font-weight: 500;
+    text-align: left;
+    // overflow: hidden;
+ }
+
+
+.position-absolute {
+    position: absolute!important;
+    padding-left: 9px;
+}
+
+.d-inline-block {
+    display: inline-block!important;
+}
+
+.mr-1 {
+    margin-right: 4px!important;
+}
+.bg-white {
+    background-color: #696868!important;
+}
+.circle {
+    border-radius: 50%!important;
+}

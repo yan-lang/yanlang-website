@@ -3,20 +3,18 @@ headless: true
 bookMenuLevels: 1
 ---
 - 
-    - [About Yan]({{< relref "/docs/about" >}})
-    - [Blog]({{< relref "/posts" >}})
-    - [Download]({{< relref "/docs/download" >}})
-    - [Getting Started]({{< relref "/docs/get_start" >}})
-    - [Documentation](https://yan-lang.github.io/yan-tutorial/)
-    - [Source Code]({{< relref "/docs/code" >}})
-    - [Contributing]({{< relref "/docs/contributing" >}})
+  - [关于"言"]({{< relref "/docs/about" >}})
+  - [博客]({{< relref "/posts" >}})
+  - [下载安装]({{< relref "/docs/download" >}})
+  - [快速开始]({{< relref "/docs/quick-start" >}})
+  - [文档]({{< relref "/docs/doc" >}})
+  - [源代码]({{< relref "/docs/source" >}})
+  - [贡献]({{< relref "/docs/contributing" >}})
 
+- **实验**
+  - [YCC框架]({{< relref "/docs/experiment/ycc" >}})
 
-- **Labs**
-    - [Starter Code]({{< relref "/docs/contributing" >}})
-
-
-- **Projects**
-    - [Compiler]({{< relref "/docs/contributing" >}})
-    - [REPL]({{< relref "/docs/contributing" >}})
-    - [Plugins]({{< relref "/docs/contributing" >}})
+- **项目**
+  - [Yan Foundation](https://github.com/yan-lang/yan/tree/master/foundation)
+  - [Yan Lang](https://github.com/yan-lang/yan/tree/master/yan-lang)
+  - [Token Util](https://github.com/yan-lang/token-util)

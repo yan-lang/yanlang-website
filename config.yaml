@@ -25,19 +25,20 @@ markup:
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 
-DefaultContentLanguage: en
+DefaultContentLanguage: cn
 
 languages:
   cn:
     languageName: 简体中文
-    contentDir: content.cn
-    weight: 1
-  en:
-    languageName: English
     contentDir: content
     weight: 2
+  en:
+    languageName: English
+    contentDir: content.en
+    weight: 1
 
 params:
+
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
   # You can also specify this parameter per page in front matter.
@@ -62,7 +63,7 @@ params:
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Path must point to 'content' directory of repo.
-  # BookEditPath: edit/master/exampleSite/content
+  # BookEditPath: edit/master/yanlang-website/content
 
   # Configure the date format used on the pages
   # - In git information

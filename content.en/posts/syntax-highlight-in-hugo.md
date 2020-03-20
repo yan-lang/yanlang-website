@@ -1,16 +1,16 @@
 ---
-author: "赖泽强"
+author: "Zeqiang Lai"
 date: 2020-01-28
-linktitle: 为Hugo添加Yan语言代码高亮支持
+linktitle: Syntax Highlight for Yan in Hugo
 menu:
   main:
     parent: tutorials
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
-title: 为Hugo添加Yan语言代码高亮支持
+title: Syntax Highlight for Yan in Hugo
 weight: 10
-# categories: ["Plugins"]
-# tags: ["pygments"]
+categories: ["Hugo"]
+tags: ["pygments"]
 ---
 
 为了能让文档阅读起来更顺畅，更美观，我们通常会高亮文档中出现的代码。Hugo使用高亮器[chroma]()来对代码进行分析实现代码高亮，但是chroma不支持我们自己定义的语言Yan。
