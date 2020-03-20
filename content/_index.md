@@ -33,7 +33,7 @@ bookToc: false
 
 ---
 
-想要体验一下？-> [快速开始]({{< relref "/docs/quick-start" >}})
+想要体验一下？-> [快速开始]({{< relref "/yan/quick-start" >}})
 
 {{< /tab >}}
 
@@ -70,9 +70,9 @@ bookToc: false
 
 ---
 
-定制你自己的实验框架？-> [框架定制]({{< relref "/docs/inprogress" >}})
+定制你自己的实验框架？-> [框架定制]({{< relref "/yan/inprogress" >}})
 
-使用我们编写好的一个C语言实验框架？-> [YCC框架]({{< relref "/docs/experiment/ycc" >}})
+使用我们编写好的一个C语言实验框架？-> [YCC框架](https://yan-lang.github.io/ycc/)
 
 {{< /tab >}}
 {{< /tabs >}}

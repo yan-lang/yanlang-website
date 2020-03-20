@@ -32,10 +32,10 @@ languages:
     languageName: 简体中文
     contentDir: content
     weight: 2
-  en:
-    languageName: English
-    contentDir: content.en
-    weight: 1
+  # en:
+  #   languageName: English
+  #   contentDir: content.en
+  #   weight: 1
 
 params:
 
@@ -54,7 +54,7 @@ params:
 
   # (Optional, default docs) Specify section of content to render as menu
   # You can also set value to '*' to render all sections to menu
-  BookSection: docs
+  BookSection: yan
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
