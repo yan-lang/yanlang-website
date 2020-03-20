@@ -1,5 +1,5 @@
 ---
-title: 介绍
+title: Welcome
 type: docs
 bookToc: false
 ---

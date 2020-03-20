@@ -1,3 +1,8 @@
+---
+title: 源代码
+type: docs
+---
+
 # 源代码
 
 “言”项目的代码被分为许多子项目，所有代码都托管在[Github](https://github.com/yan-lang)上。
